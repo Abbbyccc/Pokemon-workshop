@@ -1,5 +1,14 @@
 body {
     text-align: center;
+    background-color: #3b3b3b;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#pokemon-logo {
+    margin-top: 2.8rem;
+    margin-bottom: 1.5rem;
+
 }
 
 form {
@@ -9,4 +18,18 @@ form {
 
 form div {
     margin-bottom: 1.5rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    border-radius: 1.5rem;
+    width: 15rem;
+}
+
+.pokemonimg {
+    width: 120px;
 }
