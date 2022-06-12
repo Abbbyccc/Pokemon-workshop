@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form div {
+    margin-bottom: 1.5rem;
+}
